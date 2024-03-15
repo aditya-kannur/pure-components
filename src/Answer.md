@@ -1,0 +1,1 @@
+    Out of the two Component Pure function is performing better, because Pure Componenet is returning console data only when the value of `this.state.count` is changed, while the Simple Component can be seen returning console data after each click even when therre is no change in `this.state.count`
